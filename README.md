@@ -1,3 +1,12 @@
+Will finalize later, but I have an MVP in mind with: userbase (can either create an account or just book with me as a guest either or) have 4 sections: landing page, testimonials, book with me, and about me. 
+
+I also want a day/night time toggle that will allow will change the back ground from dark to sunny. I have the basic imgs lined up.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
